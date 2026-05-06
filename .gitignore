@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 编辑器临时文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 系统
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# 节点 / 包管理器（防御性预设，本仓库目前无 JS 代码）
+node_modules/
+.pnpm-store/
+.npm/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 环境
+.env
+.env.local
+.env.*.local
