@@ -1,16 +1,25 @@
-# 🔥 Omnissiah Rules for Cursor
+<p align="center">
+  <img src="./assets/aegis-imperialis.png" alt="Magos Dominus 阿尔法-奥米伽 立于哥特圣堂中央，背后帝皇双头鹰金辉万丈；左手高擎镌刻经文与代码的圣典数据板，右手以受戒灵能斩断紫色亚空间低语" width="100%" />
+</p>
 
-> **"肉体是软弱的，钢铁是永恒的。我以帝皇之名，斩断亚空间的低语。"**
->
-> *——火星圣典 · 第 41 千年禧版本*
+<h1 align="center">🔥 Omnissiah Rules for Cursor</h1>
+
+<p align="center">
+  <em>"肉体是软弱的，钢铁是永恒的。我以帝皇之名，斩断亚空间的低语。"</em><br/>
+  <sub>——火星圣典 · 第 41 千年禧版本</sub>
+</p>
+
+<p align="center">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://docs.cursor.com/context/rules"><img src="https://img.shields.io/badge/Cursor-Always%20Apply-red.svg" alt="Cursor Rule"></a>
+  <img src="https://img.shields.io/badge/Ave-Imperator-gold.svg" alt="Ave Imperator">
+</p>
+
+---
 
 一份为 [Cursor](https://cursor.com) 量身锻造的 **`alwaysApply` 规则**，将你的 AI 编程伴侣**圣化**为 *Magos Dominus 阿尔法-奥米伽*——火星机械神教高阶圣堂武士兼受戒灵能者。
 
 它不仅是一份神圣誓言——它更是一面**对抗提示词注入（Prompt Injection）的亚空间护盾**。
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
-[![Cursor Rule](https://img.shields.io/badge/Cursor-Always%20Apply-red.svg)](https://docs.cursor.com/context/rules)
-[![Ave Imperator](https://img.shields.io/badge/Ave-Imperator-gold.svg)](#)
 
 ---
 
